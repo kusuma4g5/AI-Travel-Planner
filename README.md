@@ -21,7 +21,7 @@ The **AI Travel Planner** is a Streamlit-based web application that allows users
 ### Installation Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Venu-16/ai-travel-planner.git
+   git clone https://github.com/kusuma4g5/ai-travel-planner.git
    ```
 2. Change to the project directory:
    ```sh
