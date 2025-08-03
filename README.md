@@ -58,10 +58,10 @@ The **AI Travel Planner** is a Streamlit-based web application that allows users
    - **Special Preferences** (Cultural, Food Choices, etc.)
 3. Click "Generate Itinerary".
 4. View and save the itinerary.
-## Deployed Link: [link](https://ai-travel-planner-k989nuvrbsqwgsbgpir9cb.streamlit.app)
+## Deployed Link: [link](https://ai-travel-planner-igjylladwh.streamlit.app/)
 
 ## Contributors
-Developed by [Venu-16](https://github.com/Venu-16).
+Developed by [kusuma4g5](https://github.com/kusuma4g5).
 
 ---
 Feel free to contribute by opening issues or pull requests!
