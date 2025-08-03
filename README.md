@@ -1,4 +1,3 @@
-# AI-Travel-Planner
 # AI Travel Planner
 
 The **AI Travel Planner** is a Streamlit-based web application that allows users to generate personalized travel itineraries using Google's Gemini AI. Users can specify trip details such as starting location, destination, budget, trip duration, travel purpose, preferences, dietary restrictions, and preferred transportation mode. The application then generates a comprehensive itinerary with meal recommendations, accommodation options, and activities.
